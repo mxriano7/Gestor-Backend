@@ -1,0 +1,8 @@
+com\oracle\gestaoprojetos\controller\ProjetoController.class
+com\oracle\gestaoprojetos\config\CorsConfig$1.class
+com\oracle\gestaoprojetos\service\ProjetoService.class
+com\oracle\gestaoprojetos\model\Projeto.class
+com\oracle\gestaoprojetos\repository\ProjetoRepository.class
+com\oracle\gestaoprojetos\GestaoProjetosApplication.class
+com\oracle\gestaoprojetos\config\CorsConfig.class
+com\oracle\gestaoprojetos\model\StatusProjeto.class
